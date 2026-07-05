@@ -57,6 +57,11 @@ While I am early in my academic path (currently in my 2nd year), I treat my stud
 * **Tech Stack**: Python, Jupyter, Pandas, NumPy, Power BI.
 * **Key Impact**: Built exploratory data analysis pipelines and interactive BI reports tracking key academic performance indicators.
 
+### 7. [🏏 IoT Cricket Analytics](https://github.com/nagnishal/iot-cricket-analytics)
+* **Problem Solved**: Modernizing professional cricket training and match analysis by capturing micro-second, high-fidelity ball strike telemetry.
+* **Tech Stack**: C++/Arduino (ESP32), TypeScript, React, Express, Pusher (WebSockets), WebGL.
+* **Key Impact**: Designed telemetry firmware for ESP32 IMU/piezoelectric sensors, real-time trajectory physics reconstruction, and WebGL-accelerated 3D match-replay dashboards.
+
 ---
 
 ## 📨 Connect With Me
