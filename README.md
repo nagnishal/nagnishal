@@ -42,6 +42,21 @@ While I am early in my academic path (currently in my 2nd year), I treat my stud
 * **Tech Stack**: Python, FastAPI, Streamlit, Scikit-Learn, XGBoost, LightGBM, Pandas, NumPy.
 * **Key Impact**: Engineered a decoupled predictive modelling suite compiling historical team ratings, executing tournament Monte Carlo simulations, and highlighting feature importances.
 
+### 4. [🏛️ Event Management Portal](https://github.com/nagnishal/event-management-portal)
+* **Problem Solved**: Coordinating registrations, proposal workflows, and multi-department activity metrics for campus events.
+* **Tech Stack**: TypeScript, React, Express, PostgreSQL.
+* **Key Impact**: Designed role-based gates for proposal workflows, competition results ranking, and complex analytical SQL reporting.
+
+### 5. [🏆 Hackathon Management System (ACTMS)](https://github.com/nagnishal/hackathon-management-system)
+* **Problem Solved**: Standard hackathon portals lack automated bid auditing and secure collaborative environments for tender bidding.
+* **Tech Stack**: Python, Flask, NLP, SQLite.
+* **Key Impact**: Implemented an automated tender evaluation pipeline using spaCy NLP and an interactive real-time team collaboration system.
+
+### 6. [🔬 Academic Data Science Sandbox](https://github.com/nagnishal/academic-data-science-sandbox)
+* **Problem Solved**: Consolidating academic data science exams and Power BI business intelligence dashboards.
+* **Tech Stack**: Python, Jupyter, Pandas, NumPy, Power BI.
+* **Key Impact**: Built exploratory data analysis pipelines and interactive BI reports tracking key academic performance indicators.
+
 ---
 
 ## 📨 Connect With Me
