@@ -67,3 +67,4 @@ While I am early in my academic path (currently in my 2nd year), I treat my stud
 ## 📨 Connect With Me
 * **Email**: [nishalns.eai24@chanakyauniversity.edu.in](mailto:nishalns.eai24@chanakyauniversity.edu.in)
 * **GitHub Profile**: [github.com/nagnishal](https://github.com/nagnishal)
+* **Linkdein profile**: [www.linkedin.com/in/singarayani-nag-nishal-49309432a](www.linkedin.com/in/singarayani-nag-nishal-49309432a)
